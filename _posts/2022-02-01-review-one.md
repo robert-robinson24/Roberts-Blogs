@@ -14,7 +14,7 @@ In my opinion, overall the Project works well in terms of the content it present
 
 Here, we can see Pulter's marriage. Already, we see conflicting reports. What I would suggest is that that Wall and Knight show more "receipts" of the reports. They mention in one of the poems that she was thirteen when she was married, but said in the preceding sentence that she was actually married when she was fifteen. I do appreciate Wall and Knight for bringing up _another_ time she changed her age. Towards the end of the Poet section, they mention how in one of her poems that she "rounded her age down."
 
-age rounding down picture
+![Pulter's age](https://github.com/robert-robinson24/Roberts-blogs/blob/main/images/SSPulterAgediff.png)
 
 All the links seem to be working fine on the site, which leads to another question as to why so many 
 of them lead to the **same** page of the background of Hester Pulter and her poems. A few links are the exception to this, and they lead to the team that runs the project, 
